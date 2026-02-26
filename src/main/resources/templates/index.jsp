@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<h1>welcome to index</h1>
+
+<a href="home">go to home</a>
+</body>
+</html>
